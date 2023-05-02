@@ -11,4 +11,5 @@ class ListandoFotografias(admin.ModelAdmin):
     list_per_page = 10
     list_editable = ("publicada",)
 
+
 admin.site.register(Fotografia, ListandoFotografias)
