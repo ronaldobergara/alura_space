@@ -1,0 +1,5 @@
+SECRET_KEY = ''
+
+AWS_ACCESS_KEY_ID = 'Chave de acesso do usuario criado no bucket'
+AWS_SECRET_ACCESS_KEY = 'Chave secreta gerada para o usuario'
+AWS_STORAGE_BUCKET_NAME = 'Nome do storage criado no S3'
